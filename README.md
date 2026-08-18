@@ -1,2 +1,26 @@
-# Taller0-Biblioteca-Git
-Taller 0 - Control de versiones con Git y GitHub - Programación III UPC
+Set-Content -Path README.md -Value @"
+# Sistema de Gestión de Biblioteca
+**Taller 1 - Programación de Computadores III - UPC**
+
+## Autor
+* **Nombre:** [Nicoll Gomez Siosi | Isabel Sofia Celedon Martinez]
+* **Código:** [njohanagomez | iceledon]
+
+## Descripción
+Aplicación de consola en Java para gestionar clientes, libros y préstamos de una biblioteca. Almacenamiento en memoria (ArrayList).
+
+* **Institución:** Universidad Popular del Cesar
+* **Docente:** Ing. Esp. Alfredo Bautista
+* **Asignatura:** Programación III
+* **Correo:** adbautista@unicesar.edu.co
+
+## Cómo ejecutar
+1. Abrir el proyecto en NetBeans
+2. Compilar con Maven
+3. Ejecutar Main.java
+
+## Funcionalidades
+- CRUD de Clientes
+- CRUD de Libros
+- Registro de préstamos y devoluciones
+"@
