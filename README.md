@@ -3,8 +3,8 @@ Set-Content -Path README.md -Value @"
 **Taller 1 - Programación de Computadores III - UPC**
 
 ## Autor
-* **Nombre:** [Nicoll Gomez Siosi | Isabel Sofia Celedon Martinez]
-* **Código:** [njohanagomez | iceledon]
+* **Nombre:** [Nicoll Gomez Siosi]
+* **Código:** [njohanagomez]
 
 ## Descripción
 Aplicación de consola en Java para gestionar clientes, libros y préstamos de una biblioteca. Almacenamiento en memoria (ArrayList).
